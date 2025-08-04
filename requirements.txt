@@ -2,5 +2,5 @@ streamlit
 langdetect
 deep-translator
 sentence-transformers
-chromadb
 PyPDF2
+faiss-cpu
